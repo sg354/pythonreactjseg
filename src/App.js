@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome To Ashok IT...!!
+        :-)Visit To Pointing Your Pointer (*_*)...!!
         </p>
+
         <a
           className="App-link"
           href="https://pointerpointer.com/"
